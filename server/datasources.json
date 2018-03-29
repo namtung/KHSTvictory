@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mydb": {
+    "host": "ds125198.mlab.com",
+    "port": 25198,
+    "database": "scienceclub",
+    "username": "namtung",
+    "password": "aimabiet999",
+    "name": "mydb",
+    "connector": "mongodb"
+  }
+}
